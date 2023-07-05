@@ -1,4 +1,4 @@
-ya boi's gotta build a website with no knowledge, wish him luck
+ya boi's gotta build a website with no knowledge, wish him luck!
 
 <!--
 **cpnovak/cpnovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
